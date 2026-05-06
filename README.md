@@ -8,9 +8,6 @@
 
 <br><br>
 
-<a href="https://github.com/TitanGra16?tab=followers">
-  <img src="https://img.shields.io/github/followers/TitanGra16?style=for-the-badge&color=B026FF&labelColor=05030A" alt="followers" />
-</a>
 <a href="https://github.com/TitanGra16">
   <img src="https://komarev.com/ghpvc/?username=TitanGra16&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="views" />
 </a>
