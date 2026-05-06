@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=B026FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Giuseppe+aka+TitanGra+%F0%9F%91%8B;Web+Developer+%7C+Creative+Builder;I+love+coding%2C+design+and+digital+projects;Welcome+to+my+GitHub+profile+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=B026FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+TitanGra+%F0%9F%91%8B;Web+Developer+%7C+Creative+Builder;I+love+coding%2C+design+and+digital+projects;Welcome+to+my+GitHub+profile+%F0%9F%9A%80" alt="Typing animation" />
 
 <br><br>
 
@@ -14,7 +14,7 @@
 <a href="https://github.com/TitanGra16">
   <img src="https://komarev.com/ghpvc/?username=TitanGra16&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="views" />
 </a>
-<a href="mailto:giuseppemaglione1604@gmail.com">
+<a href="mailto:titangra.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-FF2ED1?style=for-the-badge&labelColor=05030A" alt="email" />
 </a>
 
@@ -24,7 +24,7 @@
 
 ## 🟣 About Me
 
-Hi, I'm **Giuseppe**, also known as **TitanGra**.  
+Hi, I'm **TitanGra**.  
 I'm passionate about **programming**, **graphic design**, **web development**, and building digital projects.
 
 - 💻 Currently learning: **C, Java, Python, Assembly**
@@ -66,7 +66,7 @@ A project created to explore and better understand concepts related to the **Sim
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TitanGra16&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=05030A&title_color=B026FF&text_color=F4E8FF&icon_color=FF2ED1" alt="GitHub stats" />
+<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=TitanGra16&theme=midnight-purple&hide_border=true&background=05030A&ring=B026FF&fire=FF2ED1&currStreakLabel=F4E8FF" alt="GitHub streak" />
 
@@ -76,7 +76,7 @@ A project created to explore and better understand concepts related to the **Sim
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanGra16&layout=compact&theme=midnight-purple&hide_border=true&bg_color=05030A&title_color=B026FF&text_color=F4E8FF" alt="Top languages" />
+<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 
 </div>
 
@@ -105,7 +105,7 @@ A project created to explore and better understand concepts related to the **Sim
 ## 📫 Contact Me
 
 - GitHub: [@TitanGra16](https://github.com/TitanGra16)
-- Email: **giuseppemaglione1604@gmail.com**
+- Email: **titangra.dev@gmail.com**
 
 ---
 
