@@ -52,13 +52,6 @@ A lightweight PWA that lets you send the **PS/Home button** command to a compati
 
 ---
 
-### 🧠 Simplex Tutor
-A project created to explore and better understand concepts related to the **Simplex Method**.
-
-🔗 Repo: [simplex-tutor](https://github.com/TitanGra16/simplex-tutor)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
