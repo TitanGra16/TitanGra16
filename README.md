@@ -41,6 +41,7 @@ I'm **TitanGra**, a Computer Science student and developer based in Italy. I enj
 
 | Project | What it does | Tech |
 | :--- | :--- | :---: |
+| [**Simplex Tutor**](https://github.com/TitanGra16/simplex-tutor) | An educational linear-programming solver that explains every simplex step, with exact fractions, two-phase and dual methods, optimality certificates, and an interactive 2D graph. | JavaScript · Algorithms |
 | [**Sapori**](https://github.com/TitanGra16/sapori) | A modern, offline-first personal recipe book with gourmet themes, IndexedDB storage, and print-ready recipe PDFs. | JavaScript · PWA |
 | [**PS3 Home Button Helper**](https://github.com/TitanGra16/ps3-home-button-helper) | A lightweight PWA that sends the PS/Home button command to a compatible PlayStation 3 from any device. | JavaScript · PWA |
 | [**Order Simulator**](https://github.com/TitanGra16/Simulazione_Ordine) | An interactive platform for creating custom orders and exploring a typical online ordering flow. | PHP · Web |
