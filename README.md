@@ -57,11 +57,7 @@ I'm **TitanGra**, a Computer Science student and developer based in Italy. I enj
 
 <div align="center">
 
-<img height="170" src="./profile/stats.svg" alt="TitanGra's GitHub statistics" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=TitanGra16&theme=midnight-purple&hide_border=true&background=05030A&ring=B026FF&fire=FF2ED1&currStreakLabel=F4E8FF" alt="TitanGra's GitHub streak" />
-
-<br><br>
-
 <img height="170" src="./profile/top-langs.svg" alt="TitanGra's most used languages" />
 
 </div>
