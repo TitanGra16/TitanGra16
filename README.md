@@ -1,77 +1,71 @@
-<div align="center">
+# Hi, I'm Giuseppe Maglione 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05030A,40:2A0A4A,75:8A2BE2,100:FF2ED1&text=TitanGra&fontColor=F4E8FF&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Creative%20Builder&descAlignY=59&descSize=18" alt="TitanGra banner" />
+Computer Science student at the **University of L'Aquila**, currently interested in
+**backend development, software development and relational databases**.
 
-### Turning ideas into useful digital experiences
+I enjoy understanding how software works behind the interface: application logic,
+data modeling, object-oriented programming and database design.
 
-I build web apps, tools, and creative projects where **code meets design**.
+## 🔧 What I'm currently working with
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_website-B026FF?style=for-the-badge&labelColor=05030A)](https://titangra16.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=05030A)](https://github.com/TitanGra16)
-[![Email](https://img.shields.io/badge/Email-Let's_talk-FF2ED1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05030A)](mailto:titangra.dev@gmail.com)
+- **Java** — object-oriented programming, interfaces, lambda expressions and application logic
+- **SQL / MySQL** — ER modeling, relational database design, queries, constraints and views
+- **Git & GitHub** — version control and project management
+- **C / C++** — programming fundamentals and object-oriented concepts
 
-![Profile views](https://komarev.com/ghpvc/?username=TitanGra16&style=flat-square&color=8A2BE2&label=Profile+views)
+I'm currently strengthening my backend skills and gradually exploring technologies
+such as **Spring Boot** and REST APIs.
 
-</div>
+## 🚀 Selected projects
 
-## About me
+### 🗄️ Delivery Database
+University database project for a food-delivery system.
 
-I'm **TitanGra**, a Computer Science student and developer based in Italy. I enjoy turning ideas into practical products, from offline-first PWAs to small utilities and interactive experiences.
+My work focused mainly on:
+- requirements analysis and conceptual ER modeling
+- translation to a relational and physical schema
+- MySQL table design and integrity constraints
+- SQL views and selected queries
+- collaboration on functions and triggers
 
-- 🔭 Building web experiences, tools, and personal projects
-- 🌱 Deepening my knowledge of **C, Java, Python, and low-level programming**
-- 🎨 Interested in the intersection of **development, UI/UX, and visual design**
-- ⚡ I learn best by building, experimenting, and refining
+**Tech:** SQL · MySQL · Database Design · ER Modeling
 
-## Tech stack
+### 📐 Simplex Tutor
+An educational application inspired by a university Operations Research course,
+created to visualize and check the steps of the Simplex method.
 
-<div align="center">
+The mathematical method was first studied and solved manually during the course.
+AI tools were used during development to support parts of the implementation,
+refactoring, UI work and additional testing.
 
-**Languages & Web**
+**Tech:** JavaScript · Algorithms · Linear Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php,html,css,mysql&theme=dark" alt="C, C++, Java, Python, JavaScript, PHP, HTML, CSS and MySQL" />
+### ☕ Tic-Tac-Toe Java
+Java project focused on object-oriented programming and game logic.
 
-**Tools & Technologies**
+The core programming work was used to practice Java and OOP concepts, while AI
+assistance was mainly used to improve and reorganize the graphical/interface part.
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,maven,git,github,vscode,idea,linux,figma,ps&theme=dark" alt="Node.js, npm, Maven, Git, GitHub, VS Code, IntelliJ IDEA, Linux, Figma and Photoshop" />
+**Tech:** Java · OOP
 
-</div>
+## 🤖 About AI-assisted development
 
-## Featured projects
+I use AI tools as development and learning assistants for tasks such as debugging,
+refactoring, code review, documentation and exploring alternative solutions.
 
-| Project | What it does | Tech |
-| :--- | :--- | :---: |
-| [**Simplex Tutor**](https://github.com/TitanGra16/simplex-tutor) | An educational linear-programming solver that explains every simplex step, with exact fractions, two-phase and dual methods, optimality certificates, and an interactive 2D graph. | JavaScript · Algorithms |
-| [**Sapori**](https://github.com/TitanGra16/sapori) | A modern, offline-first personal recipe book with gourmet themes, IndexedDB storage, and print-ready recipe PDFs. | JavaScript · PWA |
-| [**PS3 Home Button Helper**](https://github.com/TitanGra16/ps3-home-button-helper) | A lightweight PWA that sends the PS/Home button command to a compatible PlayStation 3 from any device. | JavaScript · PWA |
-| [**Order Simulator**](https://github.com/TitanGra16/Simulazione_Ordine) | An interactive platform for creating custom orders and exploring a typical online ordering flow. | PHP · Web |
-| [**Tic-Tac-Toe Java**](https://github.com/TitanGra16/Tic-Tac-Toe-Java) | A modular terminal game with Player vs Player and Player vs Computer modes. | Java |
+I distinguish between technologies I can use independently and technologies or
+project components developed with substantial AI assistance, and I focus on
+understanding and testing the code I integrate.
 
-<div align="center">
+## 🎯 Current goal
 
-[**Explore all my repositories →**](https://github.com/TitanGra16?tab=repositories)
+I'm looking to grow toward **backend and software development**, especially with
+Java and relational databases.
 
-</div>
+I'm particularly interested in internship and junior opportunities in **L'Aquila**
+or remote positions.
 
-## GitHub activity
+## 📫 Links
 
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=TitanGra16&theme=midnight-purple&hide_border=true&background=05030A&ring=B026FF&fire=FF2ED1&currStreakLabel=F4E8FF" alt="TitanGra's GitHub streak" />
-<img height="170" src="./profile/top-langs.svg" alt="TitanGra's most used languages" />
-
-</div>
-
-## Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TitanGra16/TitanGra16/output/snake.svg" alt="Animated contribution graph" />
-
-<br>
-
-> *Building digital worlds, one line at a time.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF2ED1,40:8A2BE2,100:05030A" alt="Purple and pink footer" />
-
-</div>
+- Portfolio: https://titangra16.github.io
+- LinkedIn: [insert your LinkedIn profile URL]
