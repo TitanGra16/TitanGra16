@@ -68,4 +68,4 @@ or remote positions.
 ## 📫 Links
 
 - Portfolio: https://titangra16.github.io
-- LinkedIn: [[insert your LinkedIn profile URL](https://www.linkedin.com/in/giuseppe-maglione-5a28a1221/)]
+- LinkedIn: [Giuseppe Maglione](https://www.linkedin.com/in/giuseppe-maglione-5a28a1221/)]
