@@ -9,26 +9,29 @@ practical software projects.
 
 ## 🛠️ Core skills
 
-- **Java** — OOP, interfaces, lambda expressions and application logic
-- **SQL / MySQL** — ER modeling, relational schemas, queries, views and constraints
-- **Git & GitHub** — version control and repository workflows
+* **Java** — OOP, interfaces, lambda expressions and application logic
+* **SQL / MySQL** — ER modeling, relational schemas, queries, views and constraints
+* **Git & GitHub** — version control and repository workflows
 
 **Additional foundations:** C and C++
 
 ## 🚀 Featured projects
 
-### 🗄️ [Delivery Database](LINK_REPOSITORY)
+### 🗄️ [Delivery Database](https://github.com/TitanGra16/delivery-database-project)
+
 University team project covering requirements analysis, ER modeling,
 relational database design and MySQL implementation.
 
 **My main contribution:** conceptual ER model, physical schema,
 SQL views and selected queries.
 
-### 📐 [Simplex Tutor](LINK_REPOSITORY)
+### 📐 [Simplex Tutor](https://github.com/TitanGra16/simplex-tutor)
+
 Educational application inspired by my university Operations Research course,
 created after studying and applying the Simplex method manually.
 
-### ☕ [Tic-Tac-Toe Java](LINK_REPOSITORY)
+### ☕ [Tic-Tac-Toe Java](https://github.com/TitanGra16/Tic-Tac-Toe-Java)
+
 Java project focused on object-oriented programming, game logic and modular design.
 
 ## 🤖 AI-assisted development
@@ -48,5 +51,6 @@ Open to internship and junior opportunities in **L'Aquila or remote**.
 
 ## 📫 Links
 
-- [Portfolio](https://titangra16.github.io)
-- [LinkedIn](TUO_LINK_LINKEDIN)
+* [Portfolio](https://titangra16.github.io)
+* [GitHub](https://github.com/TitanGra16)
+* [LinkedIn](https://www.linkedin.com/in/giuseppe-maglione-cs)
