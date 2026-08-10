@@ -1,71 +1,52 @@
 # Hi, I'm Giuseppe Maglione 👋
 
-Computer Science student at the **University of L'Aquila**, currently interested in
-**backend development, software development and relational databases**.
+Computer Science student at the **University of L'Aquila**, interested in
+**backend and software development**.
 
-I enjoy understanding how software works behind the interface: application logic,
-data modeling, object-oriented programming and database design.
+I enjoy working on application logic, object-oriented programming and
+relational database design, turning concepts studied at university into
+practical software projects.
 
-## 🔧 What I'm currently working with
+## 🛠️ Core skills
 
-- **Java** — object-oriented programming, interfaces, lambda expressions and application logic
-- **SQL / MySQL** — ER modeling, relational database design, queries, constraints and views
-- **Git & GitHub** — version control and project management
-- **C / C++** — programming fundamentals and object-oriented concepts
+- **Java** — OOP, interfaces, lambda expressions and application logic
+- **SQL / MySQL** — ER modeling, relational schemas, queries, views and constraints
+- **Git & GitHub** — version control and repository workflows
 
-I'm currently strengthening my backend skills and gradually exploring technologies
-such as **Spring Boot** and REST APIs.
+**Additional foundations:** C and C++
 
-## 🚀 Selected projects
+## 🚀 Featured projects
 
-### 🗄️ Delivery Database
-University database project for a food-delivery system.
+### 🗄️ [Delivery Database](LINK_REPOSITORY)
+University team project covering requirements analysis, ER modeling,
+relational database design and MySQL implementation.
 
-My work focused mainly on:
-- requirements analysis and conceptual ER modeling
-- translation to a relational and physical schema
-- MySQL table design and integrity constraints
-- SQL views and selected queries
-- collaboration on functions and triggers
+**My main contribution:** conceptual ER model, physical schema,
+SQL views and selected queries.
 
-**Tech:** SQL · MySQL · Database Design · ER Modeling
+### 📐 [Simplex Tutor](LINK_REPOSITORY)
+Educational application inspired by my university Operations Research course,
+created after studying and applying the Simplex method manually.
 
-### 📐 Simplex Tutor
-An educational application inspired by a university Operations Research course,
-created to visualize and check the steps of the Simplex method.
+### ☕ [Tic-Tac-Toe Java](LINK_REPOSITORY)
+Java project focused on object-oriented programming, game logic and modular design.
 
-The mathematical method was first studied and solved manually during the course.
-AI tools were used during development to support parts of the implementation,
-refactoring, UI work and additional testing.
+## 🤖 AI-assisted development
 
-**Tech:** JavaScript · Algorithms · Linear Programming
+I use AI tools as learning and development assistants for debugging,
+refactoring, code review and exploring alternative solutions.
 
-### ☕ Tic-Tac-Toe Java
-Java project focused on object-oriented programming and game logic.
-
-The core programming work was used to practice Java and OOP concepts, while AI
-assistance was mainly used to improve and reorganize the graphical/interface part.
-
-**Tech:** Java · OOP
-
-## 🤖 About AI-assisted development
-
-I use AI tools as development and learning assistants for tasks such as debugging,
-refactoring, code review, documentation and exploring alternative solutions.
-
-I distinguish between technologies I can use independently and technologies or
-project components developed with substantial AI assistance, and I focus on
-understanding and testing the code I integrate.
+When AI assistance is substantial, I document it in the relevant repository
+and focus on understanding and testing the code I integrate.
 
 ## 🎯 Current goal
 
-I'm looking to grow toward **backend and software development**, especially with
-Java and relational databases.
+Looking to grow as a **backend / software developer**, especially with
+**Java and relational databases**.
 
-I'm particularly interested in internship and junior opportunities in **L'Aquila**
-or remote positions.
+Open to internship and junior opportunities in **L'Aquila or remote**.
 
 ## 📫 Links
 
-- Portfolio: https://titangra16.github.io
-- LinkedIn: [Giuseppe Maglione](https://www.linkedin.com/in/giuseppe-maglione-5a28a1221/)
+- [Portfolio](https://titangra16.github.io)
+- [LinkedIn](TUO_LINK_LINKEDIN)
